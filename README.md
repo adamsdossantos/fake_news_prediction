@@ -18,7 +18,7 @@ https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 ## 4. Project Structure
     ├── train.csv                   # Dataset file 
-    ├── fake_news+prediction.ipynb  # Jupyter notebook with end-to-end implementation
+    ├── fake_news_prediction.ipynb  # Jupyter notebook with end-to-end implementation
     ├── README.md                   # Project documentation
     ├── requirements.txt            # Python dependencies
     └── .gitignore                  # Files to be ignored in version control
